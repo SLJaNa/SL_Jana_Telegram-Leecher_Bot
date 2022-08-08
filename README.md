@@ -2,7 +2,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 # Features:
 
-## By [anasty17](https://github.com/anasty17)
+## By [SL_Jana_Team](https://t.me/SL_Jana_Team)
 - qBittorrent.
 - Select files from Torrent before downloading using qbittorrent and aria2c.
 - Leech (splitting, thumbnail for each user, setting as document or as media for each user).
@@ -67,7 +67,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 - Clone this repo:
 ```
-git clone https://github.com/anasty17/mirror-leech-telegram-bot mirrorbot/ && cd mirrorbot
+git clone https://github.com/SLJaNa/SL_Jana_Telegram-Leecher_Bot/ && cd mirrorbot
 ```
 - For Debian based distros
 ```
