@@ -1,4 +1,4 @@
-# Implement By - @VarnaX-279
+# Implement By - @SL_Jana_Team
 
 from string import ascii_letters
 from random import SystemRandom
@@ -72,10 +72,10 @@ class TelegraphHelper:
                     nxt_page += 1
             self.edit_page(
                 path = path[prev_page],
-                title = 'Mirror-leech-bot Torrent Search',
+                title = 'SL_Jana_Telegram-Leecher_Bot Torrent Search',
                 content=content
             )
         return
 
 
-telegraph=TelegraphHelper('Mirror-Leech-Telegram-Bot', 'https://github.com/anasty17/mirror-leech-telegram-bot')
+telegraph=TelegraphHelper('SL_Jana_Telegram-Leecher_Bot', 'https://github.com/SLJaNa/SL_Jana_Telegram-Leecher_Bot')
